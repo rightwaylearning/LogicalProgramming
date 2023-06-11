@@ -1,0 +1,12 @@
+package array_examples_test;
+
+public class Testing {
+
+	public static void main(String[] args) {
+		
+		Integer i = 120;
+		Integer j = 120; // -128 to 127
+		
+		System.out.println(i==j);
+	}
+}

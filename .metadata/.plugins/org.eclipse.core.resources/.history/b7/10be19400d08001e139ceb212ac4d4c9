@@ -1,0 +1,13 @@
+package array_examples_test;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Testing {
+
+	public static void main(String[] args) {
+		
+		
+		Map<Integer, Integer>  map = new HashMap<>();
+	}
+}

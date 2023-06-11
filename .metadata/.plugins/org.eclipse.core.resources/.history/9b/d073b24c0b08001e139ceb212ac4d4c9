@@ -1,0 +1,39 @@
+package array_examples_test.array_number_frequency;
+
+public class CountArrayElementCount {
+
+	public static void main(String[] args) {
+		
+		Integer[] arr= {1,2,3,1,3,21,4,5,1,2,2,2,3};
+		
+		
+		
+	}
+	
+	
+	static CountFrequency[] countElementFrequency(Integer[] arr) {
+		
+		if(arr!= null) {
+			int index =0 ;
+			CountFrequency[] store = new CountFrequency[arr.length];
+			
+			for (int i = 0; i < arr.length; i++) {
+				
+				if() {
+					
+				}else {
+					
+				}
+				
+				
+			}
+			
+			
+		}
+		
+		
+		return null;
+	}
+	
+	 
+}

@@ -1,0 +1,22 @@
+package array_examples_test;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Testing {
+
+	public static void main(String[] args) {
+		
+		
+		Map<Integer, Integer>  map = new HashMap<>();
+		
+		map.put(1, 100);
+		map.put(2, 300);
+		map.put(3, 600);
+		
+		map.put(2, 3000);
+		map.put(4, 400);
+		
+		System.out.println(map);
+	}
+}

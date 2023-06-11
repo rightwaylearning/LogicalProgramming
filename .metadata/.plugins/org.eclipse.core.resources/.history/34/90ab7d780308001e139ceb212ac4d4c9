@@ -1,0 +1,19 @@
+package array_examples_test;
+
+public class CountElementsOfArray {
+
+	public static void main(String[] args) {
+		
+		Integer[] arr = {10,20,30,40,50};
+		
+	}
+	
+
+	  Integer counTElementOfArray(Intege[] arr) {
+		  
+		  
+		  
+		  return null;
+	  }
+	
+}

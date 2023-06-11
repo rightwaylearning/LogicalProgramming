@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\ALL_ Repositories\LogicalProgramming\.metadata\.plugins\org.eclipse.jdt.core
+934014443.index
+1865797976.index
+3879729258.index

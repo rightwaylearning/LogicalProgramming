@@ -1,0 +1,10 @@
+package array_examples_test;
+
+public class FrequecnyCountUsingMap {
+
+	public static void main(String[] args) {
+		
+		Integer[] arr = {111,222,111,333,555,111,222};
+		
+	}
+}

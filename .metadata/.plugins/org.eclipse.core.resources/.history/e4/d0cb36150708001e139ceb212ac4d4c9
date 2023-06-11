@@ -1,0 +1,16 @@
+package array_examples_test;
+
+public class CountFrequencyOfGivenNumber {
+
+	
+	
+	
+	Integer countFequencyOfNumber(Integer[] arr, Integer element) {
+		Integer feq = 0;
+		
+		
+		
+		
+		return 0;
+	}
+}

@@ -1,0 +1,8 @@
+package array_examples_test;
+
+public class CountElementsOfArray {
+
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,20 @@
+package array_examples_test;
+
+public class IsExistGivenElementInsideArray {
+
+	public static void main(String[] args) {
+		
+		
+	}
+	
+	
+	boolean isElementPresent(Integer[] arr) {
+		
+		if(arr != null) {
+			
+		}
+		
+		
+		return false;
+	}
+}
